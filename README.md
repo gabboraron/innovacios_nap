@@ -49,3 +49,13 @@ sales + marketing/pr + engineering product + administration operations + financi
 - elegendő időről időre végiggondolni újra és újra, hogy mit és hogyan csinálunk
 
 
+## [POC](https://uni-obuda.hu/2023/02/23/egyetemi-proof-of-concept-poc-innovacios-palyazat) kritériumok
+- problem
+- value proposition
+- unvderlying magic
+- business modell
+- go to market plan
+- compmetitive nalysis
+- management team
+- financial projections
+- current status
